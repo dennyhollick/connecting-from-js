@@ -62,3 +62,6 @@ typings/
 
 # Server Settings
 settings.json
+
+# eslint
+.eslintrc.js
