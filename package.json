@@ -4,6 +4,7 @@
   "description": "",
   "main": "lookup_people.js",
   "dependencies": {
+    "knex": "^0.13.0",
     "pg": "^7.0.0"
   },
   "devDependencies": {
